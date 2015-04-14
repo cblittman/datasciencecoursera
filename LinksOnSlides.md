@@ -20,7 +20,7 @@ Note: Information in parentheses following bullet item refers to the course week
 
 ###R and R Studio
 * NYTimes: http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html?pagewanted=all (01_01)
-* http://www.r-project.org (01_01a) or cran.r-project.org 
+* http://www.r-project.org (01_01a) or http://cran.r-project.org 
 * R reference card: http://cran.r-project.org/doc/contrib/Short-refcard.pdf (01_02)
 * RStudio: http://www.rstudio.com (01_01 and 01_01a)
 * R Studio Code: http://www.rstudio.com/ide/docs/using/source (01_01a)
@@ -46,7 +46,7 @@ Note: Information in parentheses following bullet item refers to the course week
 * GitHub Account: https://github.com (02_05)
 * Github help: https://help.github.com (02_07)
 *	Forking: https://help.github.com/articles/fork-a-repo (02_06)
-*	
+
 ###Types of Analysis (03_01)
 * Examples of descriptive analysis: http://www.census.gov/2010census/ and http://books.google.com/ngrams 
 * Example of exploratory analysis: http://www.sdss.org/
