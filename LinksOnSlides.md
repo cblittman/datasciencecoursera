@@ -2,28 +2,32 @@
 
 ###Instructors:
 * Brian Caffo: http://www.bcaffo.com (01_01)
-* Caffo’s Github: https://github.com/bcaffo (01_01)
+   * Caffo’s Github: https://github.com/bcaffo (01_01)
 * Jeff Leek: http://biostat.jhsph.edu/~jleek/ or http://simplystatistics.org (01_01)
-* Leek’s Github: https://github.com/jtleek (01_01)
+   * Leek’s Github: https://github.com/jtleek (01_01)
 * Roger Peng: http://biostat.jhsph.edu/~rpeng/ or http://simplystatistics.org (01_01)
+  * Peng’s Github: https://github.com/rdpeng (01_01)
+
 ###Slide References
-*Economist: http://www.economist.com/node/15579717 (01_01)
-*McKinsey: http://www.mkinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation (01_01)
-*NYTimes: http://www.nytimes.com/2009/08/06/technology/06stats.html?_r=0 (01_01)
-*Heritage Health Prize: http://www.heritagehealthprize.com/c/hhp (01_01)
-*Radar: http://radar.oreilly.com/2011/09/building-data-science-teams.html (01_01)
-*Data Sharing Guidance: https://github.com/jtleek/datasharing 
+* Economist: http://www.economist.com/node/15579717 (01_01)
+* McKinsey: http://www.mkinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation (01_01)
+* NYTimes: http://www.nytimes.com/2009/08/06/technology/06stats.html?_r=0 (01_01)
+* Heritage Health Prize: http://www.heritagehealthprize.com/c/hhp (01_01)
+* Radar: http://radar.oreilly.com/2011/09/building-data-science-teams.html (01_01)
+* Data Sharing Guidance: https://github.com/jtleek/datasharing (03_04)
+* 
 ###R and R Studio
-*NYTimes: http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html?pagewanted=all (01_01)
-*http://www.r-project.org (01_01a) or cran.r-project.org 
-*R reference card: http://cran.r-project.org/doc/contrib/Short-refcard.pdf (01_02)
-*RStudio: http://www.rstudio.com (01_01 and 01_01a)
-*R Studio Code: http://www.rstudio.com/ide/docs/using/source (01_01a)
-*R Packages: http://cran.r-project.org/web/packages or http://www.rstudio.com/ide/docs/packages/overview (01_11)
-*	Installing from Bioconductor: http://www.bioconductor.org/install (02_09)
-*R Charts: http://rcharts.io/  (developer: http://ramnathv.github.io/) (01_11)
-*Shiny: http://www.rstudio.com/shiny or http://www.rstudio.com/shiny/showcase/ (01_11)
-*Rtools download: http://cran.r-project.org/bin/windows/Rtools/ (02_10)
+* NYTimes: http://www.nytimes.com/2009/01/07/technology/business-computing/07program.html?pagewanted=all (01_01)
+* http://www.r-project.org (01_01a) or cran.r-project.org 
+* R reference card: http://cran.r-project.org/doc/contrib/Short-refcard.pdf (01_02)
+* RStudio: http://www.rstudio.com (01_01 and 01_01a)
+* R Studio Code: http://www.rstudio.com/ide/docs/using/source (01_01a)
+* R Packages: http://cran.r-project.org/web/packages or http://www.rstudio.com/ide/docs/packages/overview (01_11)
+  * Installing from Bioconductor: http://www.bioconductor.org/install (02_09)
+* R Charts: http://rcharts.io/  (developer: http://ramnathv.github.io/) (01_11)
+* Shiny: http://www.rstudio.com/shiny or http://www.rstudio.com/shiny/showcase/ (01_11)
+* Rtools download: http://cran.r-project.org/bin/windows/Rtools/ (02_10)
+* 
 ###Markdown
 *For R Studio: http://www.rstudio.com/ide/docs/authoring/using_markdown (requires log in to R Studio support, free account) (01_01a)
 *Intro to markdown: http://daringfireball.net/projects.markdown (02_07)
