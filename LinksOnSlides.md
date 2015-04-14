@@ -1,11 +1,11 @@
-##Links referenced in video/slides for Coursera: ìData Scientistís Toolboxî
+##Links referenced in video/slides for Coursera: ‚ÄúData Scientist‚Äôs Toolbox‚Äù
 
 ###Instructors:
-*Brian Caffo: http://www.bcaffo.com (01_01)
-*Caffoís Github: https://github.com/bcaffo (01_01)
-*Jeff Leek: http://biostat.jhsph.edu/~jleek/ or http://simplystatistics.org (01_01)
-*Leekís Github: https://github.com/jtleek (01_01)
-*Roger Peng: http://biostat.jhsph.edu/~rpeng/ or http://simplystatistics.org (01_01)
+* Brian Caffo: http://www.bcaffo.com (01_01)
+* Caffo‚Äôs Github: https://github.com/bcaffo (01_01)
+* Jeff Leek: http://biostat.jhsph.edu/~jleek/ or http://simplystatistics.org (01_01)
+* Leek‚Äôs Github: https://github.com/jtleek (01_01)
+* Roger Peng: http://biostat.jhsph.edu/~rpeng/ or http://simplystatistics.org (01_01)
 ###Slide References
 *Economist: http://www.economist.com/node/15579717 (01_01)
 *McKinsey: http://www.mkinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation (01_01)
@@ -48,7 +48,7 @@
 *Examples of causal analysis: http://www.nejm.org/doi/full/10.1056/NEJMoa1205037 
 *Example of mechanistic analysis: http://www.fhwa.dot.gov/resourcecenter/teams/pavement/pave_3pdg.pdf 
 
-For the topics below, itís important to view the slides that relate to these links for proper contextÖ
+For the topics below, it‚Äôs important to view the slides that relate to these links for proper context‚Ä¶
 
 ###Data Examples (03_02)
 *http://brianknaus.com/software/srtoolbox/s_4_1_sequence80.txt 
@@ -59,7 +59,7 @@ For the topics below, itís important to view the slides that relate to these lin
 *http://www.data.gov
 ###Big Data (03_03)
 *http://mashable.com/2011/06/28/data-infographic/	
-*Travers and Milgram Study (6 degrees of separation) ñ if you have access to JSTOR: http://www.jstor.org/stable/2786545?seq=1#page_scan_tab_contents 
+*Travers and Milgram Study (6 degrees of separation) ‚Äì if you have access to JSTOR: http://www.jstor.org/stable/2786545?seq=1#page_scan_tab_contents 
 *Leskovec and Horvitz: http://research.microsoft.com/en-us/um/people/horvitz/leskovec_horvitz_www2008.pdf 
 *http://www.chrisstucchio.com/blog/2013/hadoop_hatred.html
 ###Experimental Design (03_04)
