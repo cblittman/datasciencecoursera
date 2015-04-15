@@ -1,6 +1,6 @@
 ##Links referenced in video/slides for Coursera: “Data Scientist’s Toolbox”
 
-Note: Information in parentheses following bullet item refers to the course week and video lecture number (e.g., 01_03 is the third video in the first week). Also, no wikipedia links are included within.
+Note: Information in parentheses following bullet item refers to the course week and video lecture number (e.g., 01_03 is the third video in the first week). Also, wikipedia links from the lecture slides are not included here.
 
 ###Instructors:
 * Brian Caffo: http://www.bcaffo.com (01_01)
