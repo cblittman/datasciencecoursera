@@ -35,7 +35,7 @@ Note: Information in parentheses following bullet item refers to the course week
 * Intro to markdown: http://daringfireball.net/projects.markdown (02_07)
 
 ###Statistics
-* Machine Learning/Boosting: http://webee.technion.ac.il/people/rmeir/BoostingTutorial.pdf 
+* Machine Learning/Boosting: http://webee.technion.ac.il/people/rmeir/BoostingTutorial.pdf (01_10)
 
 ###GIT and GitHub
 * Git Application Download: http://git-scm.com/downloads (02_04)
