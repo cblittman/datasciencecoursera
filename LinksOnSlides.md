@@ -33,8 +33,10 @@ Note: Information in parentheses following bullet item refers to the course week
 ###Markdown
 * For R Studio: http://www.rstudio.com/ide/docs/authoring/using_markdown (requires log in to R Studio support, free account) (01_01a)
 * Intro to markdown: http://daringfireball.net/projects.markdown (02_07)
+
 ###Statistics
 * Machine Learning/Boosting: http://webee.technion.ac.il/people/rmeir/BoostingTutorial.pdf 
+
 ###GIT and GitHub
 * Git Application Download: http://git-scm.com/downloads (02_04)
 * Git Documentation: http://git-scm.com/doc (02_07)
